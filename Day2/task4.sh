@@ -17,4 +17,3 @@ echo -e "${GREEN}Took backup sucessfully"
 # list corntabs running on system
 # crontab -l
 # 2 * * * * /Users/hgunupur/Downloads/devops_tasks/Day2/task4.sh
-

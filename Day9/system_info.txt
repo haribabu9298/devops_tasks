@@ -1,0 +1,6 @@
+Name: Darwin
+Version: Darwin Kernel Version 23.6.0: Thu Apr 24 20:29:18 PDT 2025; root:xnu-10063.141.1.705.2~1/RELEASE_ARM64_T6000
+Release: 23.6.0
+machine type: Darwin
+hostname: LAPTOP-GVMY4F2
+architecture: arm64

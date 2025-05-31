@@ -1,0 +1,19 @@
+{
+    "ibm-auth-api":{
+        "auth":"1223455",
+        "ofb-client-secret":"**********",
+        "protocol":"https",
+        "host":"tenant.verify.ibm.com",
+        "port":443,
+        "max-handles":16
+    },
+    "ibm-auth-south-api":{
+        "auth":"312455",
+        "ofb-client-secret":"**********",
+        "protocol":"https",
+        "host":"tenant.verify-south.ibm.com",
+        "port":443,
+        "max-handles":16
+    }
+    
+}
